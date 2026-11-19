@@ -25,4 +25,4 @@ I build LLM-powered apps, Python backends and the deployment automation that shi
 **Currently learning:** Java + DSA
 
 ### 📫 Reach me
-[Portfolio](https://tharundv.com) · [LinkedIn](https://www.linkedin.com/in/tharun-dv-76949a349) · tharun.dv.engg@gmail.com
+[LinkedIn](https://www.linkedin.com/in/tharun-dv-76949a349) · tharun.dv.engg@gmail.com
